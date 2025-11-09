@@ -1,0 +1,27 @@
+:root {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #213547;
+  background-color: #35608a;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-width: 320px;
+  min-height: 100vh;
+  background: url(assets/telarpg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+input{
+  background: transparent;
+  border: 2px solid rgb(66, 59, 59);
+  outline: none;
+  border-radius: 5px;
+  padding: 2px;
+}
