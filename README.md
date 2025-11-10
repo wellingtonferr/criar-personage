@@ -46,9 +46,13 @@ npm install -g json-server
 
 ### 2️ Executar o servidor
 
-Entre na pasta cd backend no terminal e rode o comando:
+Entre na pasta cd backend no terminal:
 
-node index.js
+npm install para instalar as dependencias
+
+insira esse comando para rodar o backend:
+
+ node index.js
 
 🔹 Isso cria uma API acessível em:
 
@@ -60,9 +64,11 @@ http://localhost:3000/personagens
 
 ## 🖥️ Como rodar o **frontend (React)**
 
-Em outro terminal entre na pasta frontend e rode o comando:
+Em outro terminal entre na pasta frontend:
 
-npm run dev
+npm install para instalar as dependencias
+
+npm run dev para rodar o frontend
 
 🔹 O React abrirá normalmente no navegador (geralmente em `http://localhost:5173`).
 
