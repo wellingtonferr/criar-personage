@@ -68,7 +68,9 @@ Em outro terminal entre na pasta frontend:
 
 npm install para instalar as dependencias
 
-npm run dev para rodar o frontend
+insira esse comando para rodar o frontend:
+
+npm run dev 
 
 🔹 O React abrirá normalmente no navegador (geralmente em `http://localhost:5173`).
 
